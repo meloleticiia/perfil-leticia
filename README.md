@@ -10,9 +10,9 @@ Aqui você encontra:
 
 O que usei:
 
-HTML5 e CSS3
-Flexbox e CSS Grid
-Google Fonts
+- HTML5 e CSS3
+- Flexbox e CSS Grid
+- Google Fonts
 
 O que reforcei do meu aprendizado:
 
