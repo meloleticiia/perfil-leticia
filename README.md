@@ -32,6 +32,6 @@ Desktop, tablet e celular
 
 📁 Arquivos:
 
-perfil.html - a página
-styles.css - os estilos
-foto.jpeg - minha foto
+- perfil.html - a página
+- styles.css - os estilos
+- foto.jpeg - minha foto
