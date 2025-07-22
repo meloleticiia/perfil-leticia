@@ -16,10 +16,10 @@ O que usei:
 
 O que reforcei do meu aprendizado:
 
-Estruturar páginas com HTML semântico
-Organizar CSS com variáveis
-Deixar o site responsivo
-Fazer efeitos hover
+- Estruturar páginas com HTML semântico
+- Organizar CSS com variáveis
+- Deixar o site responsivo
+- Fazer efeitos hover
 
 Funciona em:
 
