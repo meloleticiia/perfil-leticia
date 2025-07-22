@@ -27,8 +27,8 @@ Desktop, tablet e celular
 
 🎯 Como ver:
 
-Baixe os arquivos
-Abra o perfil.html no seu navegador.
+- Baixe os arquivos
+- Abra o perfil.html no seu navegador.
 
 📁 Arquivos:
 
