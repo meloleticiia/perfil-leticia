@@ -1,6 +1,6 @@
 # Meu Perfil Pessoal
 
-Este projeto contém o código do meu perfil pessoal, feito com HTML, CSS e JavaScript.
+Este projeto contém o código do meu perfil pessoal, feito com HTML e CSS.
 
 Aqui você encontra:
 
